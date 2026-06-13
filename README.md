@@ -1,4 +1,16 @@
-# Dara Contract
+<p align="center">
+  <img src="./assets/dara-logo.png" alt="Dara Logo" width="180" />
+</p>
+
+<h1 align="center">Dara Contract</h1>
+
+<p align="center">
+  Contract architecture and Soroban research for a digital Ayo strategy game.
+</p>
+
+---
+
+## Overview
 
 Dara is a digital Ayo strategy game project exploring how Stellar and Soroban can support on-chain game infrastructure.
 
